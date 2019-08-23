@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages 你好，世界
+## Welcome to GitHub Pages 你好 世界
 
 You can use the [editor on GitHub](https://github.com/XING-yu2000/XING-yu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# my mind is perfect 
+## i want to learn english 
+### i love lise 
 
 - Bulleted
 - List
